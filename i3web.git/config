@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/dopramo/i3web.git
+	fetch = +refs/*:refs/*
+	mirror = true
+[lfs]
+	repositoryformatversion = 0
